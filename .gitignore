@@ -2,4 +2,4 @@
 .DS_Store
 /devenv/nginx/logs/*
 devenv/mysql/data/
-src/vendor
+src
